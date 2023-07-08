@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>default.png</file>
+        <file>exe.png</file>
+        <file>apk.png</file>
+        <file>deb.png</file>
+        <file>npi.png</file>
+    </qresource>
+</RCC>
